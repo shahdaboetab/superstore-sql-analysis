@@ -1,0 +1,11 @@
+state,region,sales,profit,margin_pct
+Texas,Central,170188.0,-25729.0,-15.1
+Ohio,East,77977.0,-16959.0,-21.7
+Pennsylvania,East,116512.0,-15560.0,-13.4
+Illinois,Central,80166.0,-12608.0,-15.7
+North Carolina,South,55603.0,-7491.0,-13.5
+Colorado,West,32108.0,-6528.0,-20.3
+Tennessee,South,30662.0,-5342.0,-17.4
+Arizona,West,35282.0,-3428.0,-9.7
+Florida,South,89474.0,-3399.0,-3.8
+Oregon,West,17431.0,-1190.0,-6.8

@@ -1,0 +1,3 @@
+customer_type,customers,avg_orders_per_customer
+One-time,12,1.0
+Repeat (2+ orders),781,6.4

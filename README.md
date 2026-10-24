@@ -56,7 +56,7 @@ Full details and recommendations: [SQL_Report.md](SQL_Report.md)
 No payments table exists, so delivery time by Ship Mode was analysed instead. 1 duplicate line was removed. No cost data; correlation is not causation.
 
 ## Video walkthrough
-[Watch here](PUT-LINK-HERE)
+[Watch here](https://youtu.be/WX0Wtdgj44o)
 
 ## Author
 Shahd Aboetab | [LinkedIn](https://linkedin.com/in/shahdaboetab)
